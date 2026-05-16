@@ -1,0 +1,14 @@
+{
+  "name": "Ish Bor - AI Voice Job Assistant",
+  "description": "An interactive voice-based AI assistant that helps users in Uzbekistan find suitable job vacancies through a natural 12-step conversation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Voice Recognition",
+    "Camera Capture",
+    "Tailwind CSS",
+    "Framer Motion"
+  ]
+}
